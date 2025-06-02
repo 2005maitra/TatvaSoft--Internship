@@ -1,2 +1,4 @@
 # TatvaSoft--Internship
-During the  internship, I gained hands-on experience with Angular 14 for frontend development, PostgreSQL with pgAdmin for database management, and .NET 8 with Visual Studio 2022 for backend development. This experience enhanced my understanding of full-stack web application development using modern tools and frameworks in a professional, remote environment.
+During my internship, I am learning PostgreSQL, a popular database system. I am starting with basic SQL and moving to advanced topics. I am learning how to use commands like SELECT, INSERT, UPDATE, and DELETE to manage data.
+
+I am also studying important concepts like subqueries, which let me run a query inside another query, and joins, which help combine data from different tables. I am learning about INNER JOIN, LEFT JOIN, and other types of joins. This experience is helping me understand how to work with databases and improve my skills in managing data effectively.
