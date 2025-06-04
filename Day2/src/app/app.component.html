@@ -1,0 +1,12 @@
+<h1>{{title}}</h1>
+<input type="text" [(ngModel)]="name" />
+<span *ngIf="isNameVisible">Hello {{name}}</span>
+
+<button (click)="onClick()">Click Me</button>
+<router-outlet></router-outlet>
+
+<ul>
+  <li *ngFor="let student of ldrpStudents">
+    {{student}}
+  </li>
+</ul>
